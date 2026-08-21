@@ -24,7 +24,7 @@ This project was developed as part of a test assignment.
 ## Launch instructions
 1. **Clone the repository:**
 ```bash
-git clone <https://github.com/lovecu1t/developmentAidWeatherChallenge>
+git clone https://github.com/lovecu1t/developmentAidWeatherChallenge
 cd developmentAidWeatherChallenge
 ```
 2. **Specify your API key:**
