@@ -13,7 +13,7 @@ public class TableFormatter {
             return;
         }
 
-        String format = "| %-12s | %-12s | %-10s | %-10s | %-10s | %-12s | %-9s |%n";
+        String format = "| %-12s | %-12s | %-12s | %-12s | %-12s | %-12s | %-12s |%n";
         String separator = "-----------------------------------------------------------";
 
         System.out.println(separator+separator);
